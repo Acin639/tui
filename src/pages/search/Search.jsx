@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import SearchBar from '../../components/searcher/SearchBar.jsx';
 import Results from '../../components/searcher/Results.jsx';
 import './Search.css';
-import wand from '../../assets/icons/wand_blue.svg'
-import close from '../../assets/icons/close.svg'
+import wand from '../../assets/arrow_left.svg'
+import close from '../../assets/arrow_left.svg'
 import back from '../../assets/arrow_left.svg'
 import { useNavigate, useParams } from 'react-router-dom'
 
