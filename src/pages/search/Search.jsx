@@ -29,7 +29,7 @@ const Search = () => {
         </div>
 
         <div className="right-icons">
-          <img src={wand_blue} className="icon" alt="ai" onClick={navigate('/geneve')}/>
+          <img src={wand_blue} className="icon" alt="ai" />
           
         </div>
       </div>
